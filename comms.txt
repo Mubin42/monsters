@@ -7,3 +7,8 @@ git commit -m "Initial commit"
 git status # Just to see
 git remote add origin <linkSSH>
 git push origin master
+
+#Push
+git add .
+git commit -m "name"
+git push origin master
