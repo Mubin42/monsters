@@ -1,0 +1,9 @@
+touch .gitignore
+git config --global user.name Mubin
+git config --global user.email kazimubin.46@gmail.com
+git init
+git add .
+git commit -m "Initial commit"
+git status # Just to see
+git remote add origin <linkSSH>
+git push origin master
